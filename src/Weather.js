@@ -84,7 +84,7 @@ export default function Weather() {
       <small>
         <a
           class="codedBy"
-          href="https://github.com/laurabatlle/weather-app/tree/main"
+          href="https://github.com/laurabatlle/react-weather"
           target="_blank"
         >
           Open-source code
