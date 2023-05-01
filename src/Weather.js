@@ -83,7 +83,7 @@ export default function Weather() {
       </div>
       <small>
         <a
-          class="codedBy"
+          className="codedBy"
           href="https://github.com/laurabatlle/react-weather"
           target="_blank"
         >
