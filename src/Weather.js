@@ -80,17 +80,19 @@ export default function Weather() {
             </div>
           </div>
         </div>
+        <div>
+          <small>
+            <a
+              className="codedBy"
+              href="https://github.com/laurabatlle/react-weather"
+              target="_blank"
+            >
+              Open soure coded with ❤️
+            </a>
+            by Laura Batlle
+          </small>
+        </div>
       </div>
-      <small>
-        <a
-          className="codedBy"
-          href="https://github.com/laurabatlle/react-weather"
-          target="_blank"
-        >
-          Open-source code
-        </a>
-        by Laura Batlle
-      </small>
     </div>
   );
 }

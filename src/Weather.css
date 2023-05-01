@@ -132,6 +132,8 @@ a {
 }
 
 .codedBy {
+  margin-left: 20px;
+
   text-decoration: none;
   color: #fff;
 }
