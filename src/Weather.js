@@ -52,11 +52,15 @@ export default function Weather() {
                 </div>
                 <div className="col-sm">
                   <span className="units">
-                    <a href="#" className="active">
+                    <a href="#" rel="noreferrer" className="active">
                       {" "}
                       ºC{" "}
                     </a>{" "}
-                    /<a href="#"> ºF </a>
+                    /
+                    <a href="#" rel="noreferrer">
+                      {" "}
+                      ºF{" "}
+                    </a>
                   </span>
                   <ul className="maxMinTwind">
                     <li>
@@ -86,6 +90,7 @@ export default function Weather() {
               className="codedBy"
               href="https://github.com/laurabatlle/react-weather"
               target="_blank"
+              rel="noreferrer"
             >
               Open soure coded with ❤️
             </a>
