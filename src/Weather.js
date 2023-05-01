@@ -13,8 +13,8 @@ export default function Weather() {
                 <input
                   type="search"
                   className="form-control search-input"
-                  autofocus="on"
-                  autocomplete="off"
+                  autoFocus="on"
+                  autoComplete="off"
                   size="10"
                   placeholder=" 🔎 Enter city  "
                 />
